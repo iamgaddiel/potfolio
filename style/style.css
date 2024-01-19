@@ -11,3 +11,12 @@
 .wrapper {
   height: 100dvh;
 }
+
+a {
+    display: inline-flex;
+    align-items: center;
+    gap: 10px;
+    position: relative;
+    color: #eeeeee;
+    text-decoration: none;
+}
