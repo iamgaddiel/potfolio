@@ -18,5 +18,5 @@ a {
     gap: 10px;
     position: relative;
     color: #eeeeee;
-    text-decoration: none;
+    text-decoration: none !important;
 }
