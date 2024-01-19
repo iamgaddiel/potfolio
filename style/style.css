@@ -1,0 +1,13 @@
+@font-face {
+  font-family: "SourceCode";
+  src: url("/assets/fonts/SourceCodePro-VariableFont_wght.ttf");
+}
+
+*{
+    font-family: 'SourceCode';
+    font-size: 1.1rem;
+}
+
+.wrapper {
+  height: 100dvh;
+}
