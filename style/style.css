@@ -20,3 +20,14 @@ a {
     color: #eeeeee;
     text-decoration: none !important;
 }
+
+.socials{
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  margin-top: 50px;
+}
+
+.socials img{
+  width: 30px;
+}
